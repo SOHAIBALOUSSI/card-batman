@@ -39,9 +39,23 @@ img {
     border-radius: 12px;
 }
 
+
 button {
     font-weight: 850;
     background-color: hsl(47, 88%, 63%);
+    border-radius: 5px;
+    width: fit-content;
+    margin-top: 15px;
+    padding: 8px 15px ;
+    border: none;
+    font-display: bold;
+    
+}
+
+button:hover {
+    font-weight: 850;
+    background-color: black;
+    color: white;
     border-radius: 5px;
     width: fit-content;
     margin-top: 15px;
